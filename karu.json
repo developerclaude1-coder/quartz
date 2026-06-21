@@ -1,0 +1,30 @@
+{
+  "name": "cllu-quartz",
+  "path": "/home/user/projects/cllu-quartz",
+  "type": "project",
+  "description": "> \u201c[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.\u201d \u2014 Richard Hamming",
+  "languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "has_readme": true,
+  "has_tests": false,
+  "has_ci": true,
+  "has_dockerfile": true,
+  "has_requirements": true,
+  "line_count": 32639,
+  "file_count": 355,
+  "is_git": true,
+  "last_commit": "2026-04-20 05:37:30 -0400",
+  "commit_count": 1626,
+  "last_modified": "2026-05-16T21:24:11.870508+00:00",
+  "ownership": "external-oss",
+  "git_remote": "https://github.com/jackyzha0/quartz.git",
+  "lifecycle": "cataloged",
+  "hygiene_score": 80,
+  "commercial_score": null,
+  "monetization_model": null,
+  "release_state": "cataloged",
+  "karu_version": 1,
+  "scanned_at": "2026-05-16T21:40:11.085577+00:00"
+}
